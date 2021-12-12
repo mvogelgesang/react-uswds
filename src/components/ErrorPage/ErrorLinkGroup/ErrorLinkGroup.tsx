@@ -11,14 +11,14 @@ export const ErrorLink = ({ }: ErrorLinkProps & JSX.IntrinsicElements['section']
             <p>For immediate assistance:</p>
             <ul>
                 <li>
-                    <a href="javascript:void();" class="usa-link"
+                    <a href="javascript:void();" className="usa-link"
                     >Start a live chat with us</a
                     >
                 </li>
 
                 <li>
                     Call
-                    <a href="javascript:void();" class="usa-link"
+                    <a href="javascript:void();" className="usa-link"
                     >(555) 555-GOVT</a
                     >
                 </li>
